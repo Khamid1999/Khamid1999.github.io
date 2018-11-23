@@ -1,0 +1,27 @@
+body {
+background-color: gray;
+font-size: 16;
+}
+
+a {
+    font-style: none;
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+}
+
+
+p, ul {
+    color: yellow;
+    font-size: 16;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+    
+
